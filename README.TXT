@@ -1,0 +1,1 @@
+Basic chore tracking application that allows user to efficiently track their daily, weekly, and monthly tasks.
